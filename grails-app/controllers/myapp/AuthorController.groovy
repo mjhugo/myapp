@@ -4,5 +4,5 @@ class AuthorController {
 
     def index() { }
     def hello() { }
-    def bye() { }
+    def bye1() { }
 }
